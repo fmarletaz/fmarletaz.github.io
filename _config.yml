@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Page
+tagline:          Ferdinand Marlétaz 
+url:              http://fmarletaz.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Ferdinand Marlétaz
+  url:            https://twitter.com/ferdix
+  email:          ferdinand.marletaz@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/fmarletaz/fmarletaz.github.io
