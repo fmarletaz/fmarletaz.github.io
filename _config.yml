@@ -3,8 +3,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Page
-tagline:          Ferdinand Marlétaz 
+title:            F. Marlétaz
+tagline:          'Zoologist 2.0'
 url:              http://fmarletaz.github.io
 paginate:         1
 baseurl:          /
@@ -17,3 +17,10 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/fmarletaz/fmarletaz.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  Research: '/Research/'
+  Publications: '/Publications/'
+  Feed: '/atom.xml'

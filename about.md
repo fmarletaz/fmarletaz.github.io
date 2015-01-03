@@ -3,28 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a postdoctoral researcher at the [department of Zoology](http://zoo.ox.ac.uk) working with [Peter Holland](http://zoo-pholland.zoo.ox.ac.uk). 
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My research interests are at the interface of developmental biology and evolutionary genomics. I have a longstanding curiosity for the genomics of minor phyla, particularly chaetognaths. I am generally concerned with the importance of whole genome evidence to better resolve the phylogeny of metazoans. I am currently involved in the sequencing and analysis of many transcriptomes and genomes spanning broadly across metazoan diversity, including lepidoterans, fishes, annelids, molluscs, chaetognaths, cephalochordates, priapulids...
 
-There are currently two themes built on Poole:
+Among ongoing projects, I am attempting to evaluating the functional impact of whole genome duplication in animals using gene expression profiling. I am also trying to uncover new instances of whole genome duplication and to discover unusual patterns of genome evolution after duplication. I am keen on developing a new framework for comparative transcriptomics and functional genomics in an evolutionary perspective.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+http://scholar.google.com/citations?hl=fr&user=xcPfM8gAAAAJ&view_op=list_works&sortby=pubdate
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
