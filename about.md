@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-#Ferdinand Marlétaz
+##Ferdinand Marlétaz
 
 I am a postdoctoral researcher at the [department of Zoology](http://zoo.ox.ac.uk) working with [Peter Holland](http://zoo-pholland.zoo.ox.ac.uk). 
 
