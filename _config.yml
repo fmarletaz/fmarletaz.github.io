@@ -28,4 +28,3 @@ pages_list:
   
 # Dependencies
 gems:             [jekyll-paginate]
-highlighter:      rouge
