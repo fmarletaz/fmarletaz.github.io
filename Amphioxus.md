@@ -41,6 +41,6 @@ Please do not hesitate to contact us if you have a specific question:
 
 [Nacho Maeso & José-Luis Skarmeta](https://www.upo.es/CABD/GomezSkarmetaLab/people.html), CABD, Universidad Pablo de Olavide, Sevilla, Spain
 
-[Manu Irimia](http://www.crg.eu/en/manuel_irimia), CRG, Barcelona, Spain
+[Manuel Irimia](http://www.crg.eu/en/manuel_irimia), CRG, Barcelona, Spain
 
 
