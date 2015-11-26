@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+Pfff..
+
 Ferguson L\*, Marlétaz F\*, Carter JM\*, Taylor WR, Gibbs M, Breuker CJ, Holland PWH. 2014. Ancient expansion of the hox cluster in lepidoptera generated four homeobox genes implicated in extra-embryonic tissue formation. *PLoS Genet*, 10(10): e1004698.  [doi:10.1371/journal.pgen.1004698](http://dx.doi.org/10.1371/journal.pgen.1004698)  (* co-first authors) [[downloadable genome assemblies](http://10.5287/bodleiandury.3)]
 
 Marlétaz F, Maeso I, Paps J, Holland PWH. 2014. Discovery and classification of homeobox genes in animal genomes. *Methods in Molecular Biology: Hox genes — methods and protocols* (Graba and Rezsohazy, editors). Humana Press (New York). [doi:10.1007/978-1-4939-1242-1_1](http://dx.doi.org/10.1007/978-1-4939-1242-1_1)

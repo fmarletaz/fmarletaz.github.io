@@ -1,6 +1,6 @@
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:            F. Marlétaz
@@ -23,4 +23,9 @@ pages_list:
   About: '/about/'
   Research: '/Research/'
   Publications: '/Publications/'
+  Amphioxus: '/Amphioxus/'
   Feed: '/atom.xml'
+  
+# Dependencies
+gems:             [jekyll-paginate]
+highlighter:      rouge

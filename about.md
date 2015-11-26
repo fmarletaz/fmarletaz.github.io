@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-##Ferdinand Marlétaz
-
 I am a postdoctoral researcher at the [department of Zoology](http://zoo.ox.ac.uk) working with [Peter Holland](http://zoo-pholland.zoo.ox.ac.uk). 
 
 My research interests are at the interface of developmental biology and evolutionary genomics. I have a longstanding curiosity for the genomics of minor phyla, particularly chaetognaths. I am generally concerned with the importance of whole genome evidence to better resolve the phylogeny of metazoans. I am currently involved in the sequencing and analysis of many transcriptomes and genomes spanning broadly across metazoan diversity, including lepidoterans, fishes, annelids, molluscs, chaetognaths, cephalochordates, priapulids...
