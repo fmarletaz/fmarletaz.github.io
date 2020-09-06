@@ -1,120 +1,52 @@
-# Poole
+Noir is a modern, responsive and customizable theme for Jekyll 4. Typography is paid close attention to and a dark mode friendly color scheme will be displayed automatically. It builds upon a standard Jekyll install in a number of ways.
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+### Demo
 
------
+You can see a live demo of Noir: [https://noir.essentialenemy.com](https://noir.essentialenemy.com)
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+### Features
 
-![Poole](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
+HTML, SASS and Config files are included for the theme's design and functionality.
 
-See Poole in action with [the demo site](http://demo.getpoole.com).
+A navigation area for linking to pages/posts or external URLs such as social media accounts.
 
-There are currently two official themes built on Poole:
+404, Archive, Category, Tag, Style and About pages.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Pagination, related posts and per-post navigation to older/newer entries.
 
-Individual theme feedback and bug reports should be submitted to the theme's individual repository.
+HTML/CSS compression (minification).
 
+A favicon and valid Atom syndicated feed.
 
-## Contents
+Variables based accent color for the theme which can be changed easily.
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Rems, `font-size`, and scaling](#rems-font-size-and-scaling)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+Fully responsive, with an emphasis on mobile friendly design and interaction.
 
+Enabled forced curly/smart quotes across all content with the `{ | smartify }` liquid filter.
 
-## Usage
+Rich preview links when shared via iMessage on iOS/macOS/watchOS.
 
-### 1. Install Jekyll
+A wide variety of HTML elements commonly used in online Markdown writing (blockquotes, headers, tables, boxes/buttons, figure captions, code blocks, footnotes) have been styled.
 
-Poole is built for use with Jekyll, so naturally you'll need to install that. On Macs, it's rather straightforward:
+A single line added to a post's front matter can enable:
+- Adding a category or tags to a post.
+- The creation of *linked-list* style posts which link to external URLs, maintain a permalink and display a styled arrow to help indicate this.
+- Additional date line listing the last date a post was modified on.
 
-```bash
-$ gem install jekyll
-```
+### Installation
 
-**Windows users:** Windows users have a bit more work to do, but luckily [@juthilo](https://github.com/juthilo) has your back with his [Run Jekyll on Windows](https://github.com/juthilo/run-jekyll-on-windows) guide.
+First you will need to setup your Ruby environment and add the Jekyll and Bundler gems to it.
 
-You may also need to install Pygments, the Python syntax highlighter for code snippets that plays nicely with Jekyll. Read more about this [in the Jekyll docs](http://jekyllrb.com/docs/templates/#code_snippet_highlighting).
+Detailed instructions for getting Ruby setup can be found [here](https://www.ruby-lang.org/en/documentation/installation/) and the installation guide for Jekyll can be found [here](https://jekyllrb.com/docs/installation/). Bundler makes managing Jekyll sites a lot easier and you can learn how to install that gem [here](https://bundler.io) (this theme’s installation guide uses Bundler).
 
-### 2a. Quick start
+Once that’s done it’s time for the fun part. Don’t even bother with the `jekyll new site` command, I am going to provide a more foolproof way so that you don’t wind up in dependencies hell.
 
-To help anyone with any level of familiarity with Jekyll quickly get started, Poole includes everything you need for a basic Jekyll site. To that end, just download Poole and start up Jekyll.
+1. Download the latest [release](https://github.com/essentialenemy/noir/releases/) (**NOT** the ZIP archive of the latest commit made, the latest **release** asset) of this repository and copy the files into a new directory where you want your site’s configuration files to live.
+2. In your terminal or command prompt `cd` into the new directory you just made for those files.
+3. Run the command: `bundle install` as this will install all of the dependencies I have named in `Gemfile.lock`.
+4. Test that the site can be built with no issues, run the command: `bundle exec jekyll serve` and view the site by navigating to `127.0.0.1:4000` in your web browser.
+5. If all is working fine you can begin customizing your site by making changes to `_config.yml`.
 
-### 2b. Roll your own Jekyll site
+If you have any problems that arise I am glad to help you as much as I can. You can open a [new issue](https://github.com/essentialenemy/noir/issues), reach out to me on [Twitter](https://twitter.com/essentialenemy) or email me at the address found inside of `_config.yml`. I welcome your feedback and requests as well.
 
-Folks wishing to use Jekyll's templates and styles can do so with a little bit of manual labor. Download Poole and then copy what you need (likely `_layouts/`, `*.html` files, `atom.xml` for RSS, and `public/` for CSS, JS, etc.).
-
-### 3. Running locally
-
-To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from `/Poole` (or whatever your Jekyll site's root directory is named):
-
-```bash
-$ jekyll serve
-```
-
-Open <http://localhost:4000> in your browser, and voilà.
-
-### 4. Serving it up
-
-If you host your code on GitHub, you can use [GitHub Pages](https://pages.github.com) to host your project.
-
-1. Fork this repo and switch to the `gh-pages` branch.
-  1. If you're [using a custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages), modify the `CNAME` file to point to your new domain.
-  2. If you're not using a custom domain name, **modify the `baseurl` in `_config.yml`** to point to your GitHub Pages URL. Example: for a repo at `github.com/username/poole`, use `http://username.github.io/poole/`. **Be sure to include the trailing slash.**
-3. Done! Head to your GitHub Pages URL or custom domain.
-
-No matter your production or hosting setup, be sure to verify the `baseurl` option file and `CNAME` settings. Not applying this correctly can mean broken styles on your site.
-
-## Options
-
-Poole includes some customizable options, typically applied via classes on the `<body>` element.
-
-
-### Rems, `font-size`, and scaling
-
-Poole is built almost entirely with `rem`s (instead of pixels). `rem`s are like `em`s, but instead of building on the immediate parent's `font-size`, they build on the root element, `<html>`.
-
-By default, we use the following:
-
-```css
-html {
-  font-size: 16px;
-  line-height: 1.5;
-}
-@media (min-width: 38em) {
-  html {
-    font-size: 20px;
-  }
-}
-
-```
-
-To easily scale your site's typography and components, simply customize the base `font-size`s here.
-
-
-## Development
-
-Poole has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+Thank you for your interest in Noir!

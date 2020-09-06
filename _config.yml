@@ -1,30 +1,50 @@
-# Permalinks
-permalink:        pretty
-#relative_permalinks: true
-
 # Setup
-title:            F. Marlétaz
-tagline:          'Zoologist 2.0'
-url:              http://fmarletaz.github.io
-paginate:         1
-baseurl:          /
+title: Ferdinand Marlétaz's lab
+tagline: Comparative regulatory genomics, phylogenomics and bodyplan evolution
+url: https://fmarletaz.github.io
+paginate: 1
+baseurl: ""
+permalink: :title/
+
+kramdown:
+    footnote_backlink: "&#10548;"
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-target-blank
+  - jekyll-maps
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
 author:
-  name:           Ferdinand Marlétaz
-  url:            https://twitter.com/ferdix
-  email:          ferdinand.marletaz@gmail.com
+  name: Ferdinand Marlétaz
+  url: https://twitter.com/ferdix
+  email: m
 
 # Custom vars
-version:          1.0.0
+version: 1.3.0
 github:
-  repo:           https://github.com/fmarletaz/fmarletaz.github.io
+  repo: https://github.com/fmarletaz/noir
 
-# This is the list of pages to include in the header of the website.
-pages_list:       
-  About: '/about/'
-  Research: '/Research/'
-  Publications: '/Publications/'
-  Amphioxus: '/Amphioxus/'
-  Feed: '/atom.xml'
-  
-# Dependencies
-gems:             [jekyll-paginate]
+

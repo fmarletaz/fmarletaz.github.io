@@ -3,17 +3,16 @@ layout: page
 title: About
 ---
 
-I am a postdoctoral researcher at the [department of Zoology](http://zoo.ox.ac.uk) working with [Peter Holland](http://zoo-pholland.zoo.ox.ac.uk). 
+<p class="message">
+  You can rename or delete this example page as you see necessary.
+</p>
 
-My research interests are at the interface of developmental biology and evolutionary genomics. I have a longstanding curiosity for the genomics of minor phyla, particularly chaetognaths. I am generally concerned with the importance of whole genome evidence to better resolve the phylogeny of metazoans. I am currently involved in the sequencing and analysis of many transcriptomes and genomes spanning broadly across metazoan diversity, including lepidoterans, fishes, annelids, molluscs, chaetognaths, cephalochordates, priapulids...
+### What is Lorem Ipsum?
 
-Among ongoing projects, I am attempting to evaluating the functional impact of whole genome duplication in animals using gene expression profiling. I am also trying to uncover new instances of whole genome duplication and to discover unusual patterns of genome evolution after duplication. I am keen on developing a new framework for comparative transcriptomics and functional genomics in an evolutionary perspective.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
+### Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-[Twitter](https://twitter.com/Ferdix)
-
-[Scholar citations](http://scholar.google.com/citations?hl=fr&user=xcPfM8gAAAAJ&view_op=list_works&sortby=pubdate)
-
-[Github account](https://github.com/fmarletaz)
-
-
+### Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
