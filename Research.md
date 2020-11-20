@@ -52,8 +52,7 @@ We are convinced that studying genome organisation in the broadest diversity of 
 - The evolution of ancestral chromosome linkage in animals. Many but not animals have preserved the ancestral chromosomal identity among animals, we want to resolve chromosomal organisation in key animal lineage to see if this could help us understand these changes and provide some phylogenetic characters. 
 - Using complete genome to improve our phylogenetic reconstruction of the tree of life. Our goal is to extend the breadth of phylogenetic characters available: genome structure, gene family evolution and genome organisation are considered. 
 
-Two of our favorite upcoming genomes are the **chaetognaths or arrow worms (left) and the priapulid or penis worm (right)**. Chaetognaths are planktonic predators whose phylogenetic position has been recently updated to the earliest lineage of the spiralian branch (aka Lophotrochozoa) and they show a unique and highly original bodyplan. Priapu
-lids are the deepest branching ecdysozoan lineage and can help understand gene losses that took place this lineage. Both lineage show deuteronomous development that could be reminiscent of the ancestral state in bilaterians.  
+Two of our favorite upcoming genomes are the **chaetognaths or arrow worms (left) and the priapulid or penis worm (right)**. Chaetognaths are planktonic predators whose phylogenetic position has been recently updated to the earliest lineage of the spiralian branch (aka Lophotrochozoa) and they show a unique and highly original bodyplan. Priapulids are the deepest branching ecdysozoan lineage and can help understand gene losses that took place this lineage. Both lineage show deuteronomous development that could be reminiscent of the ancestral state in bilaterians.  
 
 <div style="float:center">
     <img align="center" width="500" height="520 " src="/assets/chaeto_priap.jpg" >
