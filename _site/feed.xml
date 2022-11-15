@@ -4,7 +4,7 @@
  <title>Ferdinand Marlétaz's lab</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-15T18:52:17+00:00</updated>
+ <updated>2022-11-15T19:05:24+00:00</updated>
  <id>http://localhost:4000/</id>
  <author>
    <name>Ferdinand Marlétaz</name>
@@ -15,7 +15,7 @@
  <entry>
    <title></title>
    <link href="http://localhost:4000/2020-09-22-pteropods/"/>
-   <updated>2022-11-15T18:52:17+00:00</updated>
+   <updated>2022-11-15T19:05:24+00:00</updated>
    <id>http://localhost:4000/2020-09-22-pteropods</id>
    <content type="html">&lt;p&gt;Our paper tackling the origin of pteropods &lt;a href=&quot;https://www.pnas.org/content/117/41/25609.short?rss=1&quot;&gt;has been published in PNAS&lt;/a&gt; in collaboration with &lt;a href=&quot;https://www.naturalis.nl/en/plankton-diversity-and-evolution/katja-peijnenburg&quot;&gt;Katja Peijnenburg&lt;/a&gt; from the University of Amsterdam (and the Naturalis biodiversity Centre). These mesmerising planktonic gastropods are important bioindicator of ocean acidication. We reconstructed their evolutioanry relationship and showed that their main clades have an older evolutionary origin than originally anticipated suggested that several pteropod lineage survived past major climatic crises.&lt;/p&gt;
 
