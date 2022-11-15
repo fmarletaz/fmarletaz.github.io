@@ -1,0 +1,185 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+        
+    <url>
+      <loc>http://localhost:4000/pteropods/</loc>
+      <lastmod>2020-05-02T07:20:45+01:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>http://localhost:4000/amphioxus/</loc>
+      <lastmod>2020-05-02T07:20:45+01:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>http://localhost:4000/whats-jekyll/</loc>
+      <lastmod>2008-12-06T09:30:00+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+  
+    
+  <url>
+    <loc>http://localhost:4000/404.html</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/Contact/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/People/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/Publications/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/Research/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/Resources/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/about/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/announcements.xml</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/archive/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/categories/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/feed.xml</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/sitemap.xml</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/styles.css</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/tags/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/page2/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/page3/</loc>
+    
+      <lastmod>2022-11-15T18:09:56+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+</urlset>
