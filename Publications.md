@@ -22,11 +22,19 @@ Xu F, Marlétaz F, Gavriouchkina D, Liu X, Sauka-Spengler T, Zhang G, Holland P
 
 ### 2020
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 216413ad90f34dd3d66f319fc1e35e86abc2f051
 Martín-Durán JM, Vellutini BC, Marlétaz F, Cetrangolo V, Cvetesic N, Thiel D, Henriet S, Grau-Bové X, Carrillo-Baltodano AM, Gu W, Kerbl A, Marquez Y, Bekkouche N, Chourrout D, Gómez-Skarmeta JL, Irimia M, Lenhard B, Worsaae K, Hejnol A. **Conservative route to genome compaction in a miniature annelid.** Nat Ecol Evol. 2020 Nov 16. [doi:10.1038/s41559-020-01327-6](https://doi.org/doi:10.1038/s41559-020-01327-6)
 
 Peijnenburg KTCA, Janssen AW, Wall-Palmer D, Goetze E, Maas AE, Todd JA, Marlétaz F. **The origin and diversification of pteropods precede past perturbations in the Earth's carbon cycle.** 
 Proc Natl Acad Sci U S A. 2020 Oct 13;117(41):25609-25617. [doi:10.1073/pnas.1920918117](https://doi.org/10.1073/pnas.1920918117)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 216413ad90f34dd3d66f319fc1e35e86abc2f051
 Almudi I, Vizueta J, Wyatt CDR, de Mendoza A, Marlétaz F, Firbas PN, Feuda R, Masiero G, Medina P, Alcaina-Caro A, Cruz F, Gómez-Garrido J, Gut M, Alioto TS, Vargas-Chavez C, Davie K, Misof B, González J, Aerts S, Lister R, Paps J, Rozas J, Sánchez-Gracia A, Irimia M, Maeso I, Casares F. 2020. **Genomic adaptations to aquatic and aerial life in mayflies and the origin of insect wings.** Nat Commun. 11(1):2631. [doi:10.1038/s41467-020-16284-8](https://doi.org/10.1038/s41467-020-16284-8)
 
 Simakov O, Marlétaz F, Yue JX, O'Connell B, Jenkins J, Brandt A, Calef R, Tung CH, Huang TK, Schmutz J, Satoh N, Yu JK, Putnam NH, Green RE, Rokhsar DS. 2020. **Deeply conserved synteny resolves early events in vertebrate evolution.** Nat Ecol Evol. 4(6):820-830. [doi:10.1038/s41559-020-1156-z](https://doi.org/10.1038/s41559-020-1156-z).
