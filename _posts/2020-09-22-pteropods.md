@@ -1,11 +1,7 @@
 ---
 layout: post
 title: "Pteropod origins and earth carbon cycle"
-<<<<<<< HEAD
 date: 2020-05-02 06:20:45
-=======
-date: 2020-09-22 16:30:12
->>>>>>> 216413ad90f34dd3d66f319fc1e35e86abc2f051
 categories: [Publications]
 
 ---

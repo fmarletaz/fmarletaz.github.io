@@ -4,7 +4,7 @@
  <title>Ferdinand Marlétaz's lab</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-15T19:05:24+00:00</updated>
+ <updated>2022-11-21T16:50:57+00:00</updated>
  <id>http://localhost:4000/</id>
  <author>
    <name>Ferdinand Marlétaz</name>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title></title>
-   <link href="http://localhost:4000/2020-09-22-pteropods/"/>
-   <updated>2022-11-15T19:05:24+00:00</updated>
-   <id>http://localhost:4000/2020-09-22-pteropods</id>
+   <title>Pteropod origins and earth carbon cycle</title>
+   <link href="http://localhost:4000/pteropods/"/>
+   <updated>2020-05-02T07:20:45+01:00</updated>
+   <id>http://localhost:4000/pteropods</id>
    <content type="html">&lt;p&gt;Our paper tackling the origin of pteropods &lt;a href=&quot;https://www.pnas.org/content/117/41/25609.short?rss=1&quot;&gt;has been published in PNAS&lt;/a&gt; in collaboration with &lt;a href=&quot;https://www.naturalis.nl/en/plankton-diversity-and-evolution/katja-peijnenburg&quot;&gt;Katja Peijnenburg&lt;/a&gt; from the University of Amsterdam (and the Naturalis biodiversity Centre). These mesmerising planktonic gastropods are important bioindicator of ocean acidication. We reconstructed their evolutioanry relationship and showed that their main clades have an older evolutionary origin than originally anticipated suggested that several pteropod lineage survived past major climatic crises.&lt;/p&gt;
 
 &lt;p&gt;Also see &lt;a href=&quot;https://www.oist.jp/news-center/photos/two-main-groups-pteropods&quot;&gt;OIST press release&lt;/a&gt;&lt;/p&gt;
@@ -39,21 +39,6 @@
 &lt;div style=&quot;float:center&quot;&gt;
     &lt;img align=&quot;center&quot; width=&quot;800&quot; height=&quot;524&quot; src=&quot;/assets/VMP8845.jpg&quot; /&gt;
 &lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>What&apos;s Jekyll?</title>
-   <link href="http://localhost:4000/whats-jekyll/"/>
-   <updated>2008-12-06T09:30:00+00:00</updated>
-   <id>http://localhost:4000/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
