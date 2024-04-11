@@ -3,9 +3,33 @@ layout: page
 title: Publications
 ---
 
+### 2024
+
+Marlétaz F, Timoshevskaya N, Timoshevskiy V, Parey E, Simakov O, Gavriouchkina D, Suzuki M, Kubokawa K, Brenner S, Smith J§, Rokhsar DS§. 2024. **The hagfish genome and the evolution of vertebrates.** Nature. 627:811–820 [doi:10.1038/s41586-024-07070-3](https://doi.org/10.1038/s41586-024-07070-3)
+
+### 2023
+
+Piovani L, Marlétaz F. 2023. **Single-cell transcriptomics refuels the exploration of spiralian biology.** Brief Funct Genomics. 22(6):517–524 [doi:10.1093/bfgp/elad038](https://doi.org/10.1093/bfgp/elad038). [review article]
+
+Piovani L, Leite DJ, Yañez-Guerra LA, Simpson F, Musser JM, Salvador-Martinez I, Marlétaz F, Jekely G, Telford MJ. 2023. **Single-cell atlases of two lophotrochozoan larvae highlight their complex evolutionary histories.** Sci Adv. 9(31):eadg6034. [doi:10.1126/sciadv.adg6034](https://doi.org/10.1126/sciadv.adg6034). 
+
+Ahuja N, Hwaun E, Pungor JR, Rafiq R, Nemes S, Sakmar T, Vogt MA, Grasse B, Diaz Quiroz J, Montague TG, Null RW, Dallis DN, Gavriouchkina D, Marlétaz F, Abbo L, Rokhsar DS, Niell CM, Soltesz I, Albertin CB, Rosenthal JJC. 2023. **Creation of an albino squid line by CRISPR-Cas9 and its application for in vivo functional imaging of neural activity.** Curr Biol. 10;33(13):2774-2783.e5. [doi:10.1016/j.cub.2023.05.066](https://doi.org/10.1016/j.cub.2023.05.066)
+
+Marlétaz F, Couloux A, Poulain J, Labadie K, Da Silva C, Mangenot S, Noel B, Poustka AJ, Dru P, Pegueroles C, Borra M, Lowe EK, Lhomond G, Besnardeau L, Le Gras S, Ye T, Gavriouchkina D, Russo R, Costa C, Zito F, Anello L, Nicosia A, Ragusa MA, Pascual M, Molina MD, Chessel A, Di Carlo M, Turon X, Copley RR, Exposito JY, Martinez P, Cavalieri V, Ben Tabou de Leon S, Croce J, Oliveri P, Matranga V, Di Bernardo M, Morales J, Cormier P, Geneviève AM, Aury JM, Barbe V, Wincker P, Arnone MI, Gache C, Lepage T§. 2023. **Analysis of the P. lividus sea urchin genome highlights contrasting trends of genomic and regulatory evolution in deuterostomes.** 2023. Cell Genomics.  5;3(4):100295. [doi:10.1016/j.xgen.2023.100295](https://doi.org/10.1016/j.xgen.2023.100295)
+
+Marlétaz F, de la Calle-Mustienes E, Acemel RD*, Paliou C, Naranjo S, Martínez-García PM, Cases I, Sleight VA, Hirschberger C, Marcet-Houben M, Navon D, Andrescavage A, Skvortsova K, Duckett PE, González-Rajal Á, Bogdanovic O, Gibcus JH, Yang L, Gallardo-Fuentes L, Sospedra I, Lopez-Rios J, Darbellay F, Visel A, Dekker J, Shubin N, Gabaldón T, Nakamura T§, Tena JJ§, Lupiáñez DG§, Rokhsar DS§, Gómez-Skarmeta JL. 2023. **The little skate genome and the evolutionary emergence of wing-like fins.** Nature. 616(7957):495-503. [doi:10.1038/s41586-023-05868-1](https://doi.org/10.1038/s41586-023-05868-1)
+
+Martín-Zamora FM, Liang Y, Guynes K, Carrillo-Baltodano AM, Davies BE, Donnellan RD, Tan Y, Moggioli G, Seudre O, Tran M, Mortimer K, Luscombe NM, Hejnol A, Marlétaz F§, Martín-Durán JM§. 2023. **Annelid functional genomics reveal the origins of bilaterian life cycles.** Nature. 615(7950):105-110. [doi:10.1038/s41586-022-05636-7](https://doi.org/10.1038/s41586-022-05636-7). 
+
+
 ### 2022
 
-Simakov O, Bredeson J, Berkoff K, Marlétaz F, Mitros T, Schultz DT, O'Connell BL, Dear P, Martinez DE, Steele RE, Green RE, David CN, Rokhsar DS. 2022. **Deeply conserved synteny and the evolution of metazoan chromosomes.** Sci Adv. 8(5):eabi5884. [doi:10.1126/sciadv.abi5884](https://doi.org/doi:10.1126/sciadv.abi5884).
+Pisani D, Rossi ME, Marlétaz F, Feuda R. 2022. **Phylogenomics: Is less more when using large-scale datasets?** Curr Biol. Dec 19;32(24):R1340-R1342. [doi:10.1016/j.cub.2022.11.019](https://doi.org/10.1016/j.cub.2022.11.019) [commentary]
+
+
+Brasó-Vives M, Marlétaz F, Echchiki A, Mantica F, Acemel RD, Gómez-Skarmeta JL, Hartasánchez DA, Le Targa L, Pontarotti P, Tena JJ, Maeso I, Escriva H, Irimia M, Robinson-Rechavi M. 2022. **Parallel evolution of amphioxus and vertebrate small-scale gene duplications.** Genome Biology. 18;23(1):243. [doi:10.1186/s13059-022-02808-6](https://doi.org/10.1186/s13059-022-02808-6).
+
+Simakov O, Bredeson J, Berkoff K, Marlétaz F, Mitros T, Schultz DT, O'Connell BL, Dear P, Martinez DE, Steele RE, Green RE, David CN, Rokhsar DS. 2022. **Deeply conserved synteny and the evolution of metazoan chromosomes.** Sci Adv. 8(5):eabi5884. [doi:10.1126/sciadv.abi5884](https://doi.org/10.1126/sciadv.abi5884).
 
 Miryeganeh M, Marlétaz F, Gavriouchkina D, Saze H. 2021. **De novo genome assembly and in natura epigenomics reveal salinity-induced DNA methylation in the mangrove tree Bruguiera gymnorhiza.** New Phytol. Mar;233(5):2094-2110. [doi:10.1111/nph.17738](https://doi.org/doi:10.1111/nph.17738).
 
