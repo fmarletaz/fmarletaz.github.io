@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 ---
 
-<div style="display:flex; flex-wrap:wrap; gap:15px; margin-bottom:30px;">
+<div style="display:flex; flex-wrap:wrap; gap:15px; margin-bottom:30px; justify-content:center;">
 
 <figure style="width:60%; margin:0;">
   <img src="/assets/Mglob_25dpm.JPG" style="width:100%; border-radius:4px;">
@@ -30,11 +30,11 @@ title: Gallery
   <figcaption style="font-size:0.85em; color:#666;"><em>Collection Antedon feather stars </em></figcaption>
 </figure>
 
+<figure style="width:40%; margin:0;">
+    <video width="100%" controls style="border-radius:4px;">
+      <source src="/assets/PXL_20240302_113340355.mp4" type="video/mp4">
+    </video>
+    <figcaption style="font-size:0.85em; color:#666;"><em>Larvae culture in central London!</em></figcaption>
+  </figure>
+  
 </div>
-
-<video width="30%" controls>
-  <source src="/assets/PXL_20240302_113340355.mp4" type="video/mp4">
-</video>
-  <figcaption style="font-size:0.85em; color:#666;"><em>Larvae culture in central London!  </em></figcaption>
-
-
