@@ -48,3 +48,10 @@ github:
   repo: https://github.com/fmarletaz/noir
 
 
+header_pages:
+  - Research.md
+  - People.md
+  - Publications.md
+  - Resources.md
+  - Gallery.md
+  - Contact.md
