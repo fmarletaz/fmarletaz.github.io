@@ -60,12 +60,13 @@ Lucas joined the lab as a PhD student in 2024 to work on spatial transcriptomics
 
 ### Marie Emilie Maeland
 
-Marie Emilie is a research assistant in the lab since Septembre 2023 after she graduated with a MSci at UCL. Marie is involved in optimising the culture protocols for sea urchin larvae and juveniles, as well as molecular biology and imaging work. 
-
+Marie Emilie was a research assistant in the lab from Septembre 2023 to Septembre 2024 when she was involved in optimising the culture protocols for sea urchin larvae and juveniles. She is now a PhD student with Max Telford working on the evolution of the polyclad larvae working in collaboration with Laura Piovani jointly supervised by Ferdinand Marlétaz.
 <br><br>
 
 
 ### Alumni
+* **Clara Santangelo** was a research assistant in the lab from Septembre 2024 to July 2025 where she was involved in culturing sea urchin larvae and juveniles, as well as preparing GFP reporter constructs. She is now a LIDO PhD students rotating in different labs. 
+* **Grace Birkett** was a MSci student (2024) who studied the role of signalling pathways in embryonic and postlarval development. 
 * **Nils Kerneis** was a MRes student (2021) who studied Hox gene of the tuxedo sea urchin. 
 * **Noorain Khan** was a MSc project student (2021) in the lab who worked on establishing reporter constructs in the sea urchin.
 * **Srishti Arya** was a MRes student (2020) working on the regulation of bristle star regeneration co-supervised with [Paola Oliveri](http://echinonet.org.uk).
