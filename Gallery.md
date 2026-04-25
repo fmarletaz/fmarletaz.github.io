@@ -1,3 +1,8 @@
+---
+layout: page
+title: Gallery
+---
+
 <div style="display:flex; flex-wrap:wrap; gap:15px; margin-bottom:30px;">
 
 <figure style="width:30%; margin:0;">
