@@ -20,13 +20,13 @@ title: Gallery
   <figcaption style="font-size:0.85em; color:#666;"><em>Mespilia 9dpf larva</em></figcaption>
 </figure>
 
-<figure style="width:70%; margin:0;">
-  <img src="/assets/IMG_0490.jpg" style="width:50%; border-radius:4px;">
+<figure style="width:40%; margin:0;">
+  <img src="/assets/IMG_0490.jpg" style="width:100%; border-radius:4px;">
   <figcaption style="font-size:0.85em; color:#666;"><em>Receiving Paracentrotus lividus from Roscoff</em></figcaption>
 </figure>
 
 <figure style="width:60%; margin:0;">
-  <img src="/assets/IMG_4509_2.JPG" style="width:50%; border-radius:4px;">
+  <img src="/assets/IMG_4509_2.JPG" style="width:1000%; border-radius:4px;">
   <figcaption style="font-size:0.85em; color:#666;"><em>Sampling lab trip to Margate</em></figcaption>
 </figure>
 
