@@ -26,8 +26,13 @@ title: Gallery
 </figure>
 
 <figure style="width:60%; margin:0;">
+  <img src="/assets/IMG_4509_2.JPG" style="width:50%; border-radius:4px;">
+  <figcaption style="font-size:0.85em; color:#666;"><em>Sampling lab trip to Margate</em></figcaption>
+</figure>
+
+<figure style="width:60%; margin:0;">
   <img src="/assets/IMG_2599.jpg" style="width:100%; border-radius:4px;">
-  <figcaption style="font-size:0.85em; color:#666;"><em>Collection Antedon feather stars </em></figcaption>
+  <figcaption style="font-size:0.85em; color:#666;"><em>Collecting Antedon feather stars in a marina</em></figcaption>
 </figure>
 
 <figure style="width:40%; margin:0;">
