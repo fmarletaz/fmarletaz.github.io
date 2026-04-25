@@ -60,7 +60,7 @@ Lucas joined the lab as a PhD student in 2024 to work on spatial transcriptomics
 
 ### Marie Emilie Maeland
 
-Marie Emilie was a research assistant in the lab from Septembre 2023 to Septembre 2024 when she was involved in optimising the culture protocols for sea urchin larvae and juveniles. She is now a PhD student with Max Telford working on the evolution of the polyclad larvae working in collaboration with Laura Piovani jointly supervised by Ferdinand Marlétaz.
+Marie Emilie was a research assistant in the lab from Septembre 2023 to Septembre 2024 when she was involved in optimising the culture protocols for sea urchin larvae and juveniles. She is now a PhD student with Max Telford working on the evolution of the polyclad larvae working in collaboration with Laura Piovani and jointly supervised by Ferdinand Marlétaz.
 <br><br>
 
 
