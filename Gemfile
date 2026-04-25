@@ -1,9 +1,13 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", "~> 4.3"
 gem "jekyll-gist"
 gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 gem 'jekyll-target-blank'
 gem 'jekyll-maps'
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem "webrick"
+
+platforms :windows do
+  gem 'wdm', '>= 0.1.0'
+end
