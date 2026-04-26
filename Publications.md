@@ -14,7 +14,12 @@ Lau ES, Majerova M, Hensley NM, Mukherjee A, Vasina M, Pluskal D, Damborsky J, P
 
 ### 2024
 
+
 Schiffer PH, Natsidis P, Leite DJ, Robertson HE, Lapraz F, Marlétaz F, Fromm B, Baudry L, Simpson F, Høye E, Zakrzewski AC, Kapli P, Hoff KJ, Mueller S, Marbouty M, Marlow H, Copley RR, Koszul R, Sarkies P, Telford MJ. 2024. **Insights into early animal evolution from the genome of the xenacoelomorph worm Xenoturbella bocki.** *Elife.* 13:e94948. [doi:10.7554/eLife.94948](https://doi.org/10.7554/eLife.94948)
+
+<div style="float:right;padding-left:10px">
+    <img align="right" width="200" src="/assets/NEE_cover_amphiura.png" >
+</div>
 
 Parey E, Ortega-Martinez O, Delroisse J, Piovani L, Dylus D, Dupont S, Thorndyke M, Arya S, Larsson T, Johannesson K, Buckley KM, Martinez P, Oliveri P, Marlétaz F 2024. **The brittle star genome illuminates the genetic basis of animal appendage regeneration.** *Nat Ecol Evol.* 8:1505–1521. [doi:10.1038/s41559-024-02456-y](https://doi.org/10.1038/s41559-024-02456-y)
 
@@ -32,7 +37,12 @@ Piovani L, Leite DJ, Yañez-Guerra LA, Simpson F, Musser JM, Salvador-Martinez I
 
 Ahuja N, Hwaun E, Pungor JR, Rafiq R, Nemes S, Sakmar T, Vogt MA, Grasse B, Diaz Quiroz J, Montague TG, Null RW, Dallis DN, Gavriouchkina D, Marlétaz F, Abbo L, Rokhsar DS, Niell CM, Soltesz I, Albertin CB, Rosenthal JJC. 2023. **Creation of an albino squid line by CRISPR-Cas9 and its application for in vivo functional imaging of neural activity.** *Curr Biol.* 10;33(13):2774-2783.e5. [doi:10.1016/j.cub.2023.05.066](https://doi.org/10.1016/j.cub.2023.05.066)
 
+<div style="float:right;padding-left:10px">
+    <img align="right" width="200" src="/assets/CellGenomics_urchin_cover.jpg" >
+</div>
+
 Marlétaz F, Couloux A, Poulain J, Labadie K, Da Silva C, Mangenot S, Noel B, Poustka AJ, Dru P, Pegueroles C, Borra M, Lowe EK, Lhomond G, Besnardeau L, Le Gras S, Ye T, Gavriouchkina D, Russo R, Costa C, Zito F, Anello L, Nicosia A, Ragusa MA, Pascual M, Molina MD, Chessel A, Di Carlo M, Turon X, Copley RR, Exposito JY, Martinez P, Cavalieri V, Ben Tabou de Leon S, Croce J, Oliveri P, Matranga V, Di Bernardo M, Morales J, Cormier P, Geneviève AM, Aury JM, Barbe V, Wincker P, Arnone MI, Gache C, Lepage T. 2023. **Analysis of the P. lividus sea urchin genome highlights contrasting trends of genomic and regulatory evolution in deuterostomes.** 2023. *Cell Genomics.*  5;3(4):100295. [doi:10.1016/j.xgen.2023.100295](https://doi.org/10.1016/j.xgen.2023.100295)
+
 
 Marlétaz F, de la Calle-Mustienes E, Acemel RD*, Paliou C, Naranjo S, Martínez-García PM, Cases I, Sleight VA, Hirschberger C, Marcet-Houben M, Navon D, Andrescavage A, Skvortsova K, Duckett PE, González-Rajal Á, Bogdanovic O, Gibcus JH, Yang L, Gallardo-Fuentes L, Sospedra I, Lopez-Rios J, Darbellay F, Visel A, Dekker J, Shubin N, Gabaldón T, Nakamura T, Tena JJ, Lupiáñez DG, Rokhsar DS, Gómez-Skarmeta JL. 2023. **The little skate genome and the evolutionary emergence of wing-like fins.** *Nature.* 616(7957):495-503. [doi:10.1038/s41586-023-05868-1](https://doi.org/10.1038/s41586-023-05868-1)
 
@@ -63,6 +73,10 @@ Xu F, Marlétaz F, Gavriouchkina D, Liu X, Sauka-Spengler T, Zhang G, Holland P
 
 ### 2020
 
+<div style="float:right;padding-left:10px">
+    <img align="right" width="200" src="/assets/pnas.2020.117.issue-41.largecover.png" >
+</div>
+
 Martín-Durán JM, Vellutini BC, Marlétaz F, Cetrangolo V, Cvetesic N, Thiel D, Henriet S, Grau-Bové X, Carrillo-Baltodano AM, Gu W, Kerbl A, Marquez Y, Bekkouche N, Chourrout D, Gómez-Skarmeta JL, Irimia M, Lenhard B, Worsaae K, Hejnol A. **Conservative route to genome compaction in a miniature annelid.** *Nat Ecol Evol.* 2020 Nov 16. [doi:10.1038/s41559-020-01327-6](https://doi.org/doi:10.1038/s41559-020-01327-6)
 
 Peijnenburg KTCA, Janssen AW, Wall-Palmer D, Goetze E, Maas AE, Todd JA, Marlétaz F. **The origin and diversification of pteropods precede past perturbations in the Earth's carbon cycle.** 
@@ -80,11 +94,11 @@ Choo LQ, Bal TMP, Choquet M, Smolina I, Ramos-Silva P, Marlétaz F, Kopp M, Hoar
 
 Sanchez G, Jolly J, Reid A, Sugimoto C, Azama C, Marlétaz F, Simakov O, Rokhsar DS. **New bobtail squid (Sepiolidae: Sepiolinae) from the Ryukyu islands revealed by molecular and morphological analysis.** 2019. *Commun Biol.* 2(1):465. [doi:10.1038/s42003-019-0661-6.](https://doi.org/10.1038/s42003-019-0661-6.)
 
-Marlétaz F, Peijnenburg KTCA, Goto T, Satoh N, Rokhsar D. **A new spiralian phylogeny places the enigmatic arrow worms among gnathiferans.** 2019. *Curr Biol.* 29, 1–7, [doi:10.1016/j.cub.2018.11.042](https://doi.org/10.1016/j.cub.2018.11.042)
+Marlétaz F, Peijnenburg KTCA, Goto T, Satoh N, Rokhsar D. **A new spiralian phylogeny places the enigmatic arrow worms among gnathiferans.** 2019. *Curr Biol.* 29:1–7. [doi:10.1016/j.cub.2018.11.042](https://doi.org/10.1016/j.cub.2018.11.042)
 
 ### 2018
 
-Marlétaz F, Firmbas PN, Maeso I, Tena J, Bogdanovic O, Perry M, Wyatt C, de la Calle-Mustienes E, van Heeringen S, Farahani E, Bertrand S, Burgera D, Aldea D, Subirana L, … , Mangenot S, Aury JM, Wincker P, Garcia-Fernandez J, Lenhard B, Lister R, Holland PWH, Irimia M, Escriva H, Skarmeta JL. 2018. **Amphioxus functional genomics pinpoints the origin of chordate regulatory novelties**. *Nature.*  564,  64–70.* [doi:10.1038/s41586-018-0734-6](https://doi.org/10.1038/s41586-018-0734-6)
+Marlétaz F, Firmbas PN, Maeso I, Tena J, Bogdanovic O, Perry M, Wyatt C, de la Calle-Mustienes E, van Heeringen S, Farahani E, Bertrand S, Burgera D, Aldea D, Subirana L, … , Mangenot S, Aury JM, Wincker P, Garcia-Fernandez J, Lenhard B, Lister R, Holland PWH, Irimia M, Escriva H, Skarmeta JL. 2018. **Amphioxus functional genomics pinpoints the origin of chordate regulatory novelties**. *Nature.*  564:64–70. [doi:10.1038/s41586-018-0734-6](https://doi.org/10.1038/s41586-018-0734-6)
 
 ### 2017
 
@@ -96,7 +110,7 @@ Burridge AK, Hörnlein C, Janssen AW, Hughes M, Bush SL, Marlétaz F, Gasca R, P
 
 Marlétaz F, Le Parco Y, Liu S, Peijnenburg K 2017. **Extreme Mitogenomic Variation Without Cryptic Speciation in Chaetognaths**. *Genome Biol Evol.* 9(6):1374-1384. [doi:10.1093/gbe/evx090](https://doi.org/doi:10.1093/gbe/evx090)
 
-Holland PWH, Marlétaz F,Maeso I, Dunwell TL, Paps J. 2017. **New genes from old: asymmetric divergence of gene duplicates and the evolution of development**. *Phil Trans R Soc B.* 372: 20150480. [doi:10.1098/rstb.2015.0480](https://doi.org/10.1098/rstb.2015.0480) [review article]
+Holland PWH, Marlétaz F,Maeso I, Dunwell TL, Paps J. 2017. **New genes from old: asymmetric divergence of gene duplicates and the evolution of development**. *Phil Trans R Soc B.* 372:20150480. [doi:10.1098/rstb.2015.0480](https://doi.org/10.1098/rstb.2015.0480) [review article]
 
 ### 2016
 
@@ -108,19 +122,19 @@ Acemel RD*, Tena JJ*, Irastorza I,* Marlétaz F*, Gómez-Marín C, de la Calle-M
 
 ### 2015
 
-Simakov O, Kawashima T, Marlétaz F, Jenkins J, Koyanagi R, Mitros T, Hisata K, Bredeson J, Shoguchi E, Gyoja F, Yue JX, Chen YC, Freeman RM, Sasaki A, Hikosaka-Katayama T, Sato A, Fujie M, Baughman KW, Levine J, Gonzalez P, Cameron C, Fritzenwanker JH, Pani AM, Goto H, Kanda M, Arakaki N, Yamasaki S, Qu J, Cree A, Ding Y, Dinh HH, Dugan S, Holder M, Jhangiani SN, Kovar CL, Lee SL, Lewis LR, Morton D, Nazareth LV, Okwuonu G, Santibanez J, Chen R, Richards S, Muzny DM, Gillis A, Peshkin L, Wu M, Humphreys T, Su YH, Putnam NH, Schmutz J, Fujiyama A, Yu JK, Tagawa K, Worley KC, Gibbs RA, Kirschner MW, Lowe CJ, Satoh N, Rokhsar DS, Gerhart J.  2015. **Hemichordate genomes and deuterostome origins**. 2015. *Nature.* 527, 459–465. [doi:10.1038/nature16150](https://doi.org/10.1038/nature16150) 
+Simakov O, Kawashima T, Marlétaz F, Jenkins J, Koyanagi R, Mitros T, Hisata K, Bredeson J, Shoguchi E, Gyoja F, Yue JX, Chen YC, Freeman RM, Sasaki A, Hikosaka-Katayama T, Sato A, Fujie M, Baughman KW, Levine J, Gonzalez P, Cameron C, Fritzenwanker JH, Pani AM, Goto H, Kanda M, Arakaki N, Yamasaki S, Qu J, Cree A, Ding Y, Dinh HH, Dugan S, Holder M, Jhangiani SN, Kovar CL, Lee SL, Lewis LR, Morton D, Nazareth LV, Okwuonu G, Santibanez J, Chen R, Richards S, Muzny DM, Gillis A, Peshkin L, Wu M, Humphreys T, Su YH, Putnam NH, Schmutz J, Fujiyama A, Yu JK, Tagawa K, Worley KC, Gibbs RA, Kirschner MW, Lowe CJ, Satoh N, Rokhsar DS, Gerhart J.  2015. **Hemichordate genomes and deuterostome origins**. 2015. *Nature.* 527:459–465. [doi:10.1038/nature16150](https://doi.org/10.1038/nature16150) 
 
-Kenny NJ, Namigai EK, Marlétaz F, Hui JH, Shimeld SM. 2015. **Draft genome assemblies and predicted microRNA complements of the intertidal lophotrochozoans *Patella vulgata* (Mollusca, Patellogastropoda) and *Spirobranchus (Pomatoceros) lamarcki* (Annelida, Serpulida)**. *Marine  Genomics.* 24(2):139-146. [doi:10.1016/j.margen.2015.07.004](https://doi.org/10.1016/j.margen.2015.07.004)
+Kenny NJ, Namigai EK, Marlétaz F, Hui JH, Shimeld SM. 2015. **Draft genome assemblies and predicted microRNA complements of the intertidal lophotrochozoans *Patella vulgata* (Mollusca, Patellogastropoda) and *Spirobranchus (Pomatoceros) lamarcki* (Annelida, Serpulida)**. *Marine Genomics.* 24(2):139-146. [doi:10.1016/j.margen.2015.07.004](https://doi.org/10.1016/j.margen.2015.07.004)
 
 Marlétaz F, Maeso I, Faas L, Isaacs HV, Holland PWH. 2015. **Cdx ParaHox genes acquired distinct developmental roles after gene duplication in vertebrate evolution**. *BMC Biology* 13:56 [doi:10.1186/s12915-015-0165-x](https://doi.org/10.1186/s12915-015-0165-x)
 
 ### 2014
 
-Ferguson L*, Marlétaz F*, Carter JM*, Taylor W, Gibbs M, Breuker C, Holland PWH. 2014. **Ancient expansion of the Hox cluster in Lepidoptera has generated four homeobox genes implicated in extra-embryonic tissue formation**. *PLoS genetics.* 10(10): e1004698. [doi:10.1371/journal.pgen.1004698](https://doi.org/10.1371/journal.pgen.1004698)
+Ferguson L*, Marlétaz F*, Carter JM*, Taylor W, Gibbs M, Breuker C, Holland PWH. 2014. **Ancient expansion of the Hox cluster in Lepidoptera has generated four homeobox genes implicated in extra-embryonic tissue formation**. *PLoS genetics.* 10(10):e1004698. [doi:10.1371/journal.pgen.1004698](https://doi.org/10.1371/journal.pgen.1004698)
 
 ### 2012
 
-Marlétaz F, Maeso I, Paps J, Holland PWH. 2012. **Discovery and classification of homeobox genes in animal genomes**. *Methods in Molecular Biology.* 1196: 3-18 [review article]
+Marlétaz F, Maeso I, Paps J, Holland PWH. 2012. **Discovery and classification of homeobox genes in animal genomes**. *Methods in Molecular Biology.* 1196:3-18 [review article]
 
 Simakov O, Marlétaz F, Cho SJ, Edsinger-Gonzales E, Havlak P, Hellsten U, Kuo DH, Larsson T, Lv J, Arendt D, Savage R, Osoegawa K, de Jong P, Grimwood J, Chapman JA, Shapiro H, Aerts A, Otillar RP, Terry AY, Boore JL, Grigoriev IV, Lindberg DR, Seaver EC, Weisblat DA, Putnam NH, Rokhsar DS. 2013. **Insights into bilaterian evolution from three spiralian genomes**. *Nature.* 493(7433):526-31. [doi:10.1038/nature11696](https://doi.org/10.1038/nature11696)
 
@@ -128,13 +142,13 @@ Finet C, Berne-Dedieu A, Scutt CP, Marlétaz F. 2012. **Evolution of the ARF Gen
 
 ### 2011
 
-Sobreiraa TJP*, Marlétaz F*, Simões-Costa M*, Schechtmane D, Pereiraa AC, Brunet F, Sweeney S, Pani A, Aronowicz J, Lowe CJ,  Davidson B, Laudet V, Bronner-Fraser M, de Oliveira PSL, Schubert M, and Xavier-Neto J. 2011. **Structural Shifts of ALDH Enzymes Were Instrumental for the Early Evolution of Retinoid-Dependent Axial Patterning in Metazoans**. *Proc Nat Acad U S A* 108(1):226-31  [doi:10.1073/pnas.1011223108](https://doi.org/10.1073/pnas.1011223108)
+Sobreiraa TJP*, Marlétaz F*, Simões-Costa M*, Schechtmane D, Pereiraa AC, Brunet F, Sweeney S, Pani A, Aronowicz J, Lowe CJ,  Davidson B, Laudet V, Bronner-Fraser M, de Oliveira PSL, Schubert M, and Xavier-Neto J. 2011. **Structural Shifts of ALDH Enzymes Were Instrumental for the Early Evolution of Retinoid-Dependent Axial Patterning in Metazoans**. *Proc Nat Acad U S A.* 108(1):226-31  [doi:10.1073/pnas.1011223108](https://doi.org/10.1073/pnas.1011223108)
 
 ### 2010
 
-Finet C, Timme RE, Delwiche CF, Marlétaz F. 2010. **Multigene Phylogeny of the Green Lineage Reveals the Origin and Diversification of Land Plants**. *Curr Biol* 20(24):2217-22. [doi:10.1016/j.cub.2010.11.035](https://doi.org/10.1016/j.cub.2010.11.035)
+Finet C, Timme RE, Delwiche CF, Marlétaz F. 2010. **Multigene Phylogeny of the Green Lineage Reveals the Origin and Diversification of Land Plants**. *Curr Biol.* 20(24):2217-22. [doi:10.1016/j.cub.2010.11.035](https://doi.org/10.1016/j.cub.2010.11.035)
 
-Marlétaz F, Gyapay G, Le Parco Y. 2010. **High Level of Structural Polymorphism Driven by Mobile Elements in the Hox Genomic Region of the Chaetognath Spadella cephaloptera**. *Genome Biol Evol* 2:665-667. [doi:10.1016/j.cub.2010.11.035](https://doi.org/10.1016/j.cub.2010.11.035)
+Marlétaz F, Gyapay G, Le Parco Y. 2010. **High Level of Structural Polymorphism Driven by Mobile Elements in the Hox Genomic Region of the Chaetognath Spadella cephaloptera**. *Genome Biol Evol.* 2:665-667. [doi:10.1016/j.cub.2010.11.035](https://doi.org/10.1016/j.cub.2010.11.035)
 
 ### 2008
 
