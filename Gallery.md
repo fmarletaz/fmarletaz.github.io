@@ -7,7 +7,7 @@ title: Gallery
 
 <figure style="width:60%; margin:0;">
   <img src="/assets/Mglob_25dpm.JPG" style="width:100%; border-radius:4px;">
-  <figcaption style="font-size:0.85em; color:#666;"><em>Lab grown Mespilia junvenile </em></figcaption>
+  <figcaption style="font-size:0.85em; color:#666;"><em>Lab grown Mespilia juvenile </em></figcaption>
 </figure>
 
 <figure style="width:60%; margin:0;">
